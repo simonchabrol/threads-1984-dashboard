@@ -2,8 +2,6 @@
 
 > **A critical, data-driven examination of the BBC film *Threads* (1984) through the lens of agricultural geography, institutional resilience, and post-collapse governance.**
 
-![UK 1985–1997 Agricultural Map](UK_THREADS_book__2_.png)
-
 ---
 
 ## Overview
@@ -121,8 +119,6 @@ The comparison with post-Chernobyl Belarus and Ukraine is used specifically to c
 # Threads (1984) — Royaume-Uni post-nucléaire : analyse géo-agricole
 
 > **Un examen critique et quantifié du film BBC *Threads* (1984) sous l'angle de la géographie agricole, de la résilience institutionnelle et de la gouvernance post-effondrement.**
-
-![Carte agricole UK 1985–1997](UK_THREADS_book__1_.png)
 
 ---
 
